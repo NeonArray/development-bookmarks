@@ -20,14 +20,29 @@ Resources, links, and books that I find helpful.
 - [You Don't Know JavaScript `JavaScript`](https://github.com/getify/You-Dont-Know-JS)
 
 
-## Concepts
+## Concepts & Design Patterns
 
+- [Clockwise/Spiral Rule `Agnostic`](http://c-faq.com/decl/spiral.anderson.html)
 - [Functional Programming Jargon `JavaScript`](https://github.com/hemanth/functional-programming-jargon#higher-order-functions-hof)
+- [Hashing vs Encryption `Agnostic`](https://stackoverflow.com/questions/4948322/fundamental-difference-between-hashing-and-encryption-algorithms)
 - [How to Quickly & Effectively Read Code `Agnostic`](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
+- [Inversion of Control `Agnostic`](https://en.wikipedia.org/wiki/Inversion_of_control#Background)
+- [Keep a Changelog `Agnostic`](https://keepachangelog.com/en/0.3.0/)
+- [The Twelve-Factor App `Agnostic`](https://12factor.net/)
 - [What is the Execution Context `JavaScript`](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
+
+
+## Learning Techniques
+
+- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 
 
 ## Interviews
 
 - [The JS Interview `JavaScript`](https://github.com/adam-s/js-interview-review)
 - [Toptal Hiring Guide `JavaScript`](https://www.toptal.com/javascript#hiring-guide)
+
+
+## Testing & QA
+
+- [CRAP (Change Risk and Anti-Patterns `Agnostic`](http://www.ncover.com/blog/change-risk-anti-patterns-code-complexity/)
