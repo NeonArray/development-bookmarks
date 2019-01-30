@@ -1,0 +1,18 @@
+{
+  "name": "development-bookmarks",
+  "version": "1.0.0",
+  "description": "Resources, links, and books that I find helpful.",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "markdown-link-check": "^3.7.2"
+  },
+  "scripts": {
+    "check": "cross-env ./node_modules/.bin/markdown-link-check ./README.md"
+  },
+  "author": "Aaron Arney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocularrhythm/development-bookmarks/issues"
+  },
+  "homepage": "https://github.com/ocularrhythm/development-bookmarks#readme"
+}
