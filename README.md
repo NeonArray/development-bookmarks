@@ -46,3 +46,10 @@ Resources, links, and books that I find helpful.
 ## Testing & QA
 
 - [CRAP (Change Risk and Anti-Patterns `Agnostic`](http://www.ncover.com/blog/change-risk-anti-patterns-code-complexity/)
+- [Tenon Accessibility Checker](https://tenon.io/)
+- [SSL Insecure Contente Checker](https://www.jitbit.com/sslcheck/)
+
+
+## Tools
+
+- [Mockaroo Dummy Data Generator `Database`](https://www.mockaroo.com/)
