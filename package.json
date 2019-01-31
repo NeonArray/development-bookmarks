@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "Resources, links, and books that I find helpful.",
   "devDependencies": {
-    "cross-env": "^5.2.0",
     "markdown-link-check": "^3.7.2"
   },
   "scripts": {
-    "test": "cross-env ./node_modules/.bin/markdown-link-check ./README.md"
+    "test": "./node_modules/.bin/markdown-link-check ./README.md"
   },
   "author": "Aaron Arney",
   "license": "ISC",
