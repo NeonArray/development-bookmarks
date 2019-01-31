@@ -16,6 +16,7 @@ Resources, links, and books that I find helpful.
 ## Books
 
 - [Eloquent JavaScript `JavaScript`](https://eloquentjavascript.net/)
+- [Learn Enough Command Line to Be Dangerous `Bash`](https://www.learnenough.com/command-line-tutorial/basics)
 - [Speaking JavaScript `JavaScript`](http://speakingjs.com/es5/index.html#toc_ch01)
 - [You Don't Know JavaScript `JavaScript`](https://github.com/getify/You-Dont-Know-JS)
 
