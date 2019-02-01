@@ -50,6 +50,11 @@ Resources, links, and books that I find helpful.
 - [.htaccess Snippets `Apache`](https://github.com/phanan/htaccess)
 
 
+## Soft Skills
+
+- [Public Speaking `Awesome List`](https://github.com/matteofigus/awesome-speaking)
+
+
 ## Testing & QA
 
 - [CRAP (Change Risk and Anti-Patterns `Agnostic`](http://www.ncover.com/blog/change-risk-anti-patterns-code-complexity/)
