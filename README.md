@@ -21,6 +21,11 @@ Resources, links, and books that I find helpful.
 - [You Don't Know JavaScript `JavaScript`](https://github.com/getify/You-Dont-Know-JS)
 
 
+## Code Style & Principles
+
+- [Clean Code `PHP`](https://github.com/jupeter/clean-code-php)
+
+
 ## Concepts & Design Patterns
 
 - [Clockwise/Spiral Rule `Agnostic`](http://c-faq.com/decl/spiral.anderson.html)
