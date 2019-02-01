@@ -33,15 +33,21 @@ Resources, links, and books that I find helpful.
 - [What is the Execution Context `JavaScript`](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
 
 
-## Learning Techniques
+## Learning
 
 - [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+- [Understanding Math `Math`](https://betterexplained.com/articles/developing-your-intuition-for-math/)
 
 
 ## Interviews
 
 - [The JS Interview `JavaScript`](https://github.com/adam-s/js-interview-review)
 - [Toptal Hiring Guide `JavaScript`](https://www.toptal.com/javascript#hiring-guide)
+
+
+## Lists
+
+- [.htaccess Snippets `Apache`](https://github.com/phanan/htaccess)
 
 
 ## Testing & QA
