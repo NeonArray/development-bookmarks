@@ -38,6 +38,11 @@ Resources, links, and books that I find helpful.
 - [What is the Execution Context `JavaScript`](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
 
 
+## Laws & Governance 
+
+- [GDPR - How it affects U.S businesses](https://www.forbes.com/sites/forbestechcouncil/2017/12/04/yes-the-gdpr-will-affect-your-u-s-based-business/#c2bc46c6ff26)
+
+
 ## Learning
 
 - [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
