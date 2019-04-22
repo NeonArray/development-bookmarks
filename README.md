@@ -62,6 +62,7 @@ Resources, links, and books that I find helpful.
 
 ## Soft Skills
 
+- [Explaining Things More Clearly `Communication`](https://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - [Public Speaking `Awesome List`](https://github.com/matteofigus/awesome-speaking)
 
 
