@@ -74,5 +74,6 @@ Resources, links, and books that I find helpful.
 
 ## Tools
 
+- [Firefox Send `Secure File Sharing`](https://send.firefox.com/)
 - [Mockaroo Dummy Data Generator `Database`](https://www.mockaroo.com/)
 - [SASSme - SASS Color Function Visualizer `SASS/SCSS`](https://sassme.jim-nielsen.com/)
