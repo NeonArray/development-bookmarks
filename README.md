@@ -75,3 +75,4 @@ Resources, links, and books that I find helpful.
 ## Tools
 
 - [Mockaroo Dummy Data Generator `Database`](https://www.mockaroo.com/)
+- [SASSme - SASS Color Function Visualizer `SASS/SCSS`](https://sassme.jim-nielsen.com/)
