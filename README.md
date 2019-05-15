@@ -28,6 +28,7 @@ Resources, links, and books that I find helpful.
 
 ## Concepts & Design Patterns
 
+- [Bitwise Operators in Modern PHP](https://www.sitepoint.com/bitwise-operators-still-relevant-modern-php/)
 - [Clockwise/Spiral Rule `Agnostic`](http://c-faq.com/decl/spiral.anderson.html)
 - [Functional Programming Jargon `JavaScript`](https://github.com/hemanth/functional-programming-jargon#higher-order-functions-hof)
 - [Hashing vs Encryption `Agnostic`](https://stackoverflow.com/questions/4948322/fundamental-difference-between-hashing-and-encryption-algorithms)
