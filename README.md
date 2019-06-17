@@ -10,7 +10,7 @@ Resources, links, and books that I find helpful.
 
 ## Articles
 
-- [Saving the World from Code](hhttps://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+- [Saving the World from Code](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
 
 ## Blogs
