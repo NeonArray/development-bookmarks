@@ -8,6 +8,11 @@ Resources, links, and books that I find helpful.
 - [Sorting Algorithm Visualization](https://www.toptal.com/developers/sorting-algorithms)
 
 
+## Articles
+
+- [Saving the World from Code](hhttps://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+
+
 ## Blogs
 
 - [The Knights of Unity `Unity/C#`](https://www.theknightsofunity.com/)
