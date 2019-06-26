@@ -40,6 +40,7 @@ Resources, links, and books that I find helpful.
 - [How to Quickly & Effectively Read Code `Agnostic`](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 - [Inversion of Control `Agnostic`](https://en.wikipedia.org/wiki/Inversion_of_control#Background)
 - [Keep a Changelog `Agnostic`](https://keepachangelog.com/en/0.3.0/)
+- [Making Wrong Code Look Wrong `Agnostic`](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 - [The Twelve-Factor App `Agnostic`](https://12factor.net/)
 - [What is the Execution Context `JavaScript`](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
 
